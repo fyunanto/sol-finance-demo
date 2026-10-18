@@ -1,0 +1,6 @@
+{
+  "name": "SOL Agency - Financial & Invoice OS",
+  "description": "Sistem manajemen keuangan real-time, laba rugi, cash flow harian, quotation, invoice, kontrol anggaran, dan RBAC untuk SOL Agency (PT Solusi Optima Laju).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
