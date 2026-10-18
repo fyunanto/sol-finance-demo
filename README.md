@@ -5,13 +5,13 @@ Sistem manajemen keuangan real-time, pembukuan laba rugi (*Profit & Loss*), pela
 ---
 
 ## 🏢 Profil Perusahaan
-- **Nama Perusahaan:** SOL Agency
-- **Badan Hukum:** PT. Solusi Optima Laju
+- **Nama Perusahaan:** PT ABV
+- **Badan Hukum:** PT. ABC
 - **Email Resmi:** [invoice@solagency.id](mailto:invoice@solagency.id)
 - **Email Kontak:** [connect.solagency@gmail.com](mailto:connect.solagency@gmail.com)
 - **Website:** [www.solagency.id](https://www.solagency.id)
 - **WhatsApp / Telp:** +62 852-1282-8253
-- **Rekening Resmi:** Bank Mandiri `137 000 505 7753` a.n Ferdi Yunanto
+- **Rekening Resmi:** Bank Mandiri `137 000 234 2353` a.n Andi Rahman
 
 ---
 
@@ -51,7 +51,7 @@ Sistem manajemen keuangan real-time, pembukuan laba rugi (*Profit & Loss*), pela
    - Toggle tampilan antara **Lembar Tagihan 1 Halaman** dan **Dokumen Proposal Proyek Lengkap (Scope, Arsitektur Custom PHP 8.30 & Cloud Hosting)**.
 
 7. **Tata Kelola Tim & RBAC (Role-Based Access Control)**
-   - Struktur tim 2-person startup (*Ferdi Yunanto - CEO & Lead Dev*, *Reza Pratama - Finance & Ops*) + akun portal klien (*Client Viewer*).
+   - Struktur tim 2-person startup (*) + akun portal klien (*Client Viewer*).
    - Tombol ganti pengguna instan dan edit profil pengguna (nama, email, role, avatar).
    - Matriks hak akses fitur dan status Google OAuth2 SSO.
 
